@@ -107,7 +107,6 @@ const ButtonsTag = styled.div`
 export function DeleteCardModal() { 
   const {openModalDialog, setOpenModalDialog, setOpenPopUp} = useModal();
   const {choisedCard,updateCards, setUpdateCards, setMessageCardSuccessful} = useCard();
-  console.log(choisedCard)
   const handleDelete = async()=>{
     try {
       const response = await axios.delete(`http://localhost:3000/catalogo/${choisedCard.id}`);
