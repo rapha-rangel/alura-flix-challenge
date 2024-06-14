@@ -12,7 +12,10 @@ Projeto do challange da Alura.
 -`TypeScript`
 -`Next.js`
 
-##Telas:
+## Link:
+Link do projeto: https://alura-flix-challenge-chi.vercel.app/ 
+
+## Telas:
 
 ![alura1](https://github.com/rapha-rangel/alura-flix-challenge/assets/110298670/7da7f14a-921a-4889-b0e0-e2587853287c)
 ![alura2](https://github.com/rapha-rangel/alura-flix-challenge/assets/110298670/7620ec52-e08e-49cb-9f5a-903410be160d)
